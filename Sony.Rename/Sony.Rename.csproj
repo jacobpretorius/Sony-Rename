@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <StartupObject>Sony.Rename.Program</StartupObject>
+    <AssemblyVersion>1.0.0209.5</AssemblyVersion>
+    <FileVersion>1.0.0209.5</FileVersion>
+  </PropertyGroup>
+
+</Project>
